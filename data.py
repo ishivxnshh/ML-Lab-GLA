@@ -30,4 +30,3 @@ print("y-train\n",y_train)
 print("y-test\n",y_test)
 
 print("Summary:",df.describe())
-
